@@ -9,8 +9,8 @@
     height: 150px;
 }
 #esquerda{
-    width: 20%
-    height: 500px;
+    width: 20%;
+   height: 500px;
     float: left;
 }
 #centro{
@@ -23,4 +23,8 @@
     height: 500px;
     float: left;
 }
+#rodape {
+    height: 150px;
+}
+
 
