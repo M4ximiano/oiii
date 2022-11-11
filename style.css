@@ -68,3 +68,7 @@ p {
     padding: 100px;
     text-align: center;
 }
+
+section {
+    background-color: rgb(197, 186, 195);
+}
