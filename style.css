@@ -68,6 +68,7 @@ h4{
 #exercicio2nocss {
 	
     width: 15%;
+    background-color: rgb(124, 145, 160);
     height: 400px;
     float: right;
 }
@@ -79,7 +80,6 @@ p {
 .imagemcomputacional {
     width: 35%;
     height: 400px;
-    background-color: rgb(124, 145, 160);
     padding: 100px;
     text-align: center;
 }
