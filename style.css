@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background: rgb(192, 150, 115);
+	background: rgb(207, 178, 155);
 	height: 50PX;
 	padding: 20px 0;
 	width: 100%;
@@ -85,5 +85,5 @@ p {
 }
 
 section {
-    background-color: rgb(180, 157, 126);
+    background-color: rgb(179, 161, 138);
 }
