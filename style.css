@@ -80,6 +80,7 @@ p {
 .imagemcomputacional {
     width: 35%;
     height: 400px;
+    background-color: rgb(124, 145, 160);
     padding: 100px;
     text-align: center;
 }
