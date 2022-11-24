@@ -43,6 +43,7 @@ h4{
 #exercicio1 {
 	width: 50%;
     height: 600px;
+    background-color: rgb(223, 180, 140);
     float: left;
 }
 #exercicio1nocss {
