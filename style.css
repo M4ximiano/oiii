@@ -11,12 +11,12 @@ header {
 }
 
 body {
-    background-color: rgb(206, 74, 129);
+    background-color: rgb(235, 178, 202));
 }
 
 h1 {
     background-color:rgb(241, 153, 175);
-    text-align: left;
+    text-align: center;
 	font-size: 30px;
 }
 h2 {
@@ -46,7 +46,7 @@ h4{
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(214, 201, 172);
+    background-color:rgb(255, 223, 238);
     float: center;
     margin-top: 10px;
     margin-bottom: 10px;
